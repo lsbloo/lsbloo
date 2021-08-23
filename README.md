@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsbloo&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsbloo&theme=tokyonight&hide=html,javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsbloo&theme=tokyonight&hide=html,javascript,c,C++,css)
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
