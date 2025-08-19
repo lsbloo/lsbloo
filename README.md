@@ -5,6 +5,4 @@
 
 Here are some ideas to get you started:
 -->
-
-- 👋 Hi, I’m @lsbloo
 - 👀 I’m a simple script kiddie
